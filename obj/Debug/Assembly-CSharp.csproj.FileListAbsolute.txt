@@ -1,0 +1,338 @@
+F:\project game\2.5D game\Temp\bin\Debug\Assembly-CSharp.dll
+F:\project game\2.5D game\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\project game\2.5D game\Temp\bin\Debug\Boo.Lang.dll
+F:\project game\2.5D game\Temp\bin\Debug\Facebook.Unity.Settings.dll
+F:\project game\2.5D game\Temp\bin\Debug\mscorlib.dll
+F:\project game\2.5D game\Temp\bin\Debug\System.Core.dll
+F:\project game\2.5D game\Temp\bin\Debug\System.dll
+F:\project game\2.5D game\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\project game\2.5D game\Temp\bin\Debug\System.Xml.dll
+F:\project game\2.5D game\Temp\bin\Debug\System.Xml.Linq.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.Locator.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.TextMeshPro.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEditor.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UI.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityScript.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityScript.Lang.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.Cecil.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.DataContract.dll
+F:\project game\2.5D game\Temp\bin\Debug\ExCSS.Unity.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\project game\2.5D game\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\project game\2.5D game\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.IvyParser.dll
+F:\project game\2.5D game\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\project game\2.5D game\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\project game\2.5D game\Temp\bin\Debug\Unity.CecilTools.dll
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEditor.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.UI.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\project game\2.5D game\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\project game\2.5D game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\project game\2.5D game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+F:\project game\2.5D game\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+F:\project game\2.5D game\obj\Debug\Assembly-CSharp.dll
+F:\project game\2.5D game\obj\Debug\Assembly-CSharp.pdb
+F:\project game\Swordsman\Temp\bin\Debug\Assembly-CSharp.dll
+F:\project game\Swordsman\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\project game\Swordsman\Temp\bin\Debug\Boo.Lang.dll
+F:\project game\Swordsman\Temp\bin\Debug\Facebook.Unity.Settings.dll
+F:\project game\Swordsman\Temp\bin\Debug\mscorlib.dll
+F:\project game\Swordsman\Temp\bin\Debug\System.Core.dll
+F:\project game\Swordsman\Temp\bin\Debug\System.dll
+F:\project game\Swordsman\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\project game\Swordsman\Temp\bin\Debug\System.Xml.dll
+F:\project game\Swordsman\Temp\bin\Debug\System.Xml.Linq.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.Locator.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.TextMeshPro.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEditor.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UI.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityScript.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityScript.Lang.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.Cecil.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.DataContract.dll
+F:\project game\Swordsman\Temp\bin\Debug\ExCSS.Unity.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\project game\Swordsman\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\project game\Swordsman\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.IvyParser.dll
+F:\project game\Swordsman\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\project game\Swordsman\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\project game\Swordsman\Temp\bin\Debug\Unity.CecilTools.dll
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEditor.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.UI.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\project game\Swordsman\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\project game\Swordsman\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\project game\Swordsman\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+F:\project game\Swordsman\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+F:\project game\Swordsman\obj\Debug\Assembly-CSharp.dll
+F:\project game\Swordsman\obj\Debug\Assembly-CSharp.pdb
